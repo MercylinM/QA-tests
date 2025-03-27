@@ -1,5 +1,6 @@
 
 const fizzBuzz = require("./fizzbuzz")
+
 test ('bring Fizz when its divided by 3', ()=>{
     expect(fizzBuzz(12)).toBe("Fizz");
 }

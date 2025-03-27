@@ -1,4 +1,4 @@
-// const {isEven} = require('./numbers');
+
 
 const isEven = require("./numbers");
 

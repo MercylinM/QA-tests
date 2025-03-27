@@ -1,4 +1,4 @@
-// const isValidEmail =  ('./emailValidator.js')
+
 
 const isValidEmail = require("./emailValidator")
 
